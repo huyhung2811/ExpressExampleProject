@@ -28,7 +28,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: hunglh2811/learn-cicd:learn-cicd
+          tags: hunglh2811/learn-cicd:hehe
 
 
   pull-and-up:
